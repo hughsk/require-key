@@ -1,0 +1,26 @@
+{
+  "name": "require-key",
+  "description": "A browserify transform that inlines required values from JSON files",
+  "version": "0.0.0",
+  "main": "index.js",
+  "browser": "index.js",
+  "dependencies": {
+    "map-async": "~0.1.1",
+    "through": "~2.3.4",
+    "browser-resolve": "~1.1.4",
+    "esprima": "~1.0.4",
+    "astw": "0.0.0",
+    "escodegen": "0.0.27"
+  },
+  "devDependencies": {},
+  "scripts": {},
+  "author": "Hugh Kennedy <hughskennedy@gmail.com> (http://github.com/hughsk)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/hughsk/require-key"
+  },
+  "bugs": {
+    "url": "https://github.com/hughsk/require-key/issues"
+  }
+}
